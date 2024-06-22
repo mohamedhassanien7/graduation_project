@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553343359534",
+    "project_id": "test-app-9e997",
+    "storage_bucket": "test-app-9e997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553343359534:android:f25f6f381f9ced46c69dbf",
+        "android_client_info": {
+          "package_name": "com.example.care_brecelet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTy5V5qIyrCPibccjFwdfWe_khnj9sGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553343359534:android:c2e0ee432c14f5b0c69dbf",
+        "android_client_info": {
+          "package_name": "com.example.test_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTy5V5qIyrCPibccjFwdfWe_khnj9sGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
